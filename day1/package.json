@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "syamcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaaljabbar/coodingknowledge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaaljabbar/coodingknowledge/issues"
+  },
+  "homepage": "https://github.com/rajaaljabbar/coodingknowledge#readme",
+  "description": ""
+}
